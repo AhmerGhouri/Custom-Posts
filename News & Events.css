@@ -1,0 +1,210 @@
+.main{
+
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+
+
+.mainlist{
+
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+
+
+}
+
+
+.listtab{
+
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 30%;
+    justify-content: right;
+    padding: 10px 10px 10px 10px;
+
+    
+
+
+}
+
+
+
+
+.list {
+
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    width: 100%;
+    padding: 15px 150px 15px 15px;
+
+
+}
+
+
+.datalist{
+
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 20px 10px 20px 10px;
+    list-style : none ; 
+    border-bottom: #f1f1f1 1px solid;
+
+
+
+
+}
+
+
+.btn-sucess {
+
+
+    background-color: #5cb85c !important;
+    border: #4cae4c solid 1px !important;
+
+
+}
+
+.btn-primary{
+
+
+
+    color: white !important;
+    background-color: purple !important;
+
+
+
+
+}
+
+
+.text-muted{
+
+
+    color: white !important;
+
+
+}
+
+
+.img-circle{
+
+
+    border-radius: 50px !important;
+
+
+}
+
+
+.btn:hover {
+
+
+    background-color: green !important;
+
+
+}
+
+.fa-eye{
+
+
+    color: white !important;
+
+
+}
+
+
+
+  /* Style the active class (and buttons on mouse-over) */
+.active, .list:hover {
+
+    background-color: #666;
+    color: white;
+
+}
+
+
+.mylg-tabcontent{
+
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0px 10px 50px 10px;
+    overflow-y: scroll;
+    width: 60%;
+    height: 200px;
+    margin-top: 20px;
+    
+
+
+}
+
+
+.calender{
+
+
+    background-color : purple ; 
+    text-align : center; 
+    padding : 5px 5px 5px 5px ; 
+    border : 1px solid black;
+    font-size: 0.60em;
+    border-radius: 4px 4px 0px 0px;
+    color: white;
+
+
+
+}
+
+.calender1{
+
+
+    background-color : white !important; 
+    text-align : center ; 
+    border : 1px solid black;
+    padding: 2px 0px 2px 0px;
+    border-radius: 0px 0px 4px 4px;
+    font-size: 0.95em;
+    font-weight: 600;
+
+
+
+}
+
+
+
+.proli{
+
+
+    padding: 0px 0px 0px 0px;
+
+
+}
+
+.descDiv{
+
+    padding: 0px 12px 0px 40px;
+
+
+}
+
+
+
+
