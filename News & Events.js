@@ -65,329 +65,358 @@
 
 
 let cars = [
-    {
-      "color": "purple",
-      "type": "minivan",
-      "registration": new Date('2017-01-03'),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "station wagon",
-      "registration": new Date(),
-      "capacity": 5
-    },
-    {
-      "color": "red",
-      "type": "toyota",
-      "registration": new Date(),
-      "capacity": 6
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-      "color": "red",
-      "type": "vigo",
-      "registration": new Date(),
-      "capacity": 7
-    },
-    {
-        "color": "red",
-        "type": "honda",
-        "registration": new Date(),
-        "capacity": 8
-    },
+  {
+    "color": "purple",
+    "type": "minivan",
+    "registration": new Date('2017-01-03'),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "station wagon",
+    "registration": new Date(),
+    "capacity": 5
+  },
+  {
+    "color": "red",
+    "type": "toyota",
+    "registration": new Date(),
+    "capacity": 6
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "notifications" : "No" ,
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7,
+    "notifications" : "Yes" ,
+    "item" : [{
+      
+      "StudentList" : "Student List",
+      "MeritList" : "https://www.sohailuniversity.edu.pk",
+      
 
-    {
 
-      "color": "purple",
-      "type": "minivan",
-      "registration": new Date('2017-01-03'),
-      "capacity": 7
-    }
-    
-  ]
-  
+    },
+    {
+      "StudentList2": "2nd Year Merit List",
+      "2ndMeritList" : "https://www.jmc.edu.pk",
+
+    }]
+
+  },
+  {
+    "color": "red",
+    "type": "vigo",
+    "registration": new Date(),
+    "capacity": 7
+  },
+  {
+    "color": "red",
+    "type": "honda",
+    "registration": new Date(),
+    "capacity": 8
+  },
+
+  {
+
+    "color": "purple",
+    "type": "minivan",
+    "registration": new Date('2017-01-03'),
+    "capacity": 7
+  }
+
+]
+
 
 
 
@@ -399,7 +428,7 @@ var purplecars = [];
 
 let carcolors = cars.filter(car => {
 
-    return car
+  return car
 
 })
 
@@ -407,7 +436,7 @@ let carcolors = cars.filter(car => {
 
 
 
-function active(evt){
+function active(evt) {
 
 
 
@@ -416,14 +445,14 @@ function active(evt){
 
 
 
-  for(i = 0 ; i < list.length ; i++){
+  for (i = 0; i < list.length; i++) {
 
 
-    list[i].addEventListener("click" , function(){
+    list[i].addEventListener("click", function () {
 
       var current = document.getElementsByClassName("active");
 
-      current[0].className = current[0].className.replace(" active" , "");
+      current[0].className = current[0].className.replace(" active", "");
 
       this.className += " active";
 
@@ -444,7 +473,7 @@ function active(evt){
 
 
 
-function abc(){
+function abc() {
 
 
   active()
@@ -452,18 +481,72 @@ function abc(){
 
   let htmlCode = ""
 
-  carcolors.forEach((car) =>{
+  carcolors.forEach((car) => {
 
 
     var tabcontent = document.getElementById('mylg-tabcontent')
     var news = document.getElementById("1")
     var events = document.getElementById("2")
 
-    
-    
-    if(car.color === 'red' && news === document.getElementById("1")){
-      
-      
+
+
+    if (car.color === 'red') {
+
+
+      if (car.notifications === "Yes"){
+
+        
+        
+        
+        var notfitem = car.item
+        console.log(notfitem)
+        var button = document.getElementsByClassName("button")
+
+        notfitem.forEach((notf) => {
+
+          console.log(notf)
+
+          
+          button.innerHTML = `
+          
+          
+          
+          <div >
+          
+          <a class= "btn icon-btn btn-primary" target="_blank" href="${notf.MeritList}" >
+          
+          <span class="btn-update fa fa-link img-circle text-muted">
+          
+          ${notfitem.StudentList}
+          
+          </span>
+          
+          </a>
+          
+          
+          
+          </div>
+          
+          
+          
+          `
+          
+        })
+        
+      }
+
+
+        
+        var button = document.getElementsByClassName("button")
+        
+        
+
+          button.innerHTML = 
+
+
+
+
+
       htmlCode += `
       
       
@@ -495,10 +578,19 @@ function abc(){
             ${car.type} 
             ${car.color} 
             ${car.registration}
+
+            <div class="button">
+        
+          
+
+             
+
+            </div>
+
       
           </div>
 
-          <div style=" width : 8%">
+          <div style=" width : 8%" >
 
             <div>
 
@@ -514,22 +606,24 @@ function abc(){
         
         
       </div>`
+
+
       
-      
+
       tabcontent.innerHTML = htmlCode
 
-      
-      
+
+
     }
 
-   
+
   })
 
 
 }
 
 
-function bcd(){
+function bcd() {
 
   active()
 
@@ -537,18 +631,20 @@ function bcd(){
 
   let htmlCode = ""
 
-  carcolors.forEach((car) =>{
+  carcolors.forEach((car) => {
 
 
     var tabcontent = document.getElementById('mylg-tabcontent')
     var news = document.getElementById("1")
     var events = document.getElementById("2")
 
-    
-    
-    if(car.color === 'purple' ){
-      
-      
+
+
+    if (car.color === 'purple' || (car.color === "purple" && car === car.notifications)) {
+
+
+      console.log(car)
+
       htmlCode += `
       
       
@@ -581,26 +677,19 @@ function bcd(){
             ${car.color} 
             ${car.registration}
 
-            <div>
+            <div class="button">
 
               <a class= "btn icon-btn btn-primary">
               
                 <span class="btn-update fa fa-link img-circle text-muted">
-                
+            
                   Notification
 
                 </span>
-              
+          
               </a>
-              <a class= "btn icon-btn btn-primary">
-              
-                <span class="btn-update fa fa-link img-circle">
-                
-                  Notification
 
-                </span>
-              
-              </a>
+             
 
             </div>
 
@@ -623,11 +712,132 @@ function bcd(){
         
         
       </div>`
-      
-      
-      
+
+
+
+            // document.getElementsByClassName("button").innerHTML = `
+            
+            // <div>
+            
+            //   <a class= "btn icon-btn btn-primary">
+              
+            //     <span class="btn-update fa fa-link img-circle text-muted">
+            
+            //       ${not}
+
+            //     </span>
+          
+            //   </a>
+            
+            
+            // </div>
+
+            
+            
+            
+            // `
+
+
+
+
       tabcontent.innerHTML = htmlCode
       
+
+    }
+
+    if (car.color === 'purple' && car === car.notifications) {
+
+
+      console.log(car)
+
+
+      htmlCode += `
+      
+      
+      <div class="datalist"> 
+      
+
+        <div style="display : flex ; flex-direction : row; ">
+
+          <div style=" width : 4%" class = "proli">
+
+            <div class="calender">
+
+              MAR
+
+            </div>
+
+            <div class="calender1">
+
+              21
+
+            </div>
+          
+
+          </div>
+
+          <div class = "descDiv">
+      
+            ${car.capacity} 
+            ${car.type} 
+            ${car.color} 
+            ${car.registration}
+
+            <div class="button">
+
+
+              <div>
+            
+                <a class= "btn icon-btn btn-primary">
+              
+                  <span class="btn-update fa fa-link img-circle text-muted">
+            
+                    ${car.notifications.StudentList}
+
+                  </span>
+          
+                </a>
+            
+            
+              </div>        
+
+
+            </div>
+
+      
+          </div>
+
+          <div style=" width : 8%">
+
+            <div>
+
+              <a class="btn btn-sucess btn-sm" target="_blank" title="View"><i class="fa fa-eye"></i></a>
+
+            </div>
+
+
+          </div>
+    
+        
+        </div>
+        
+        
+      </div>`
+
+
+
+            // document.getElementsByClassName("button").innerHTML = `
+            
+            // 
+            
+            
+            // `
+
+
+
+
+      tabcontent.innerHTML = htmlCode
+
     }
 
 
@@ -635,19 +845,6 @@ function bcd(){
   })
 
 }
-
-
-
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    document.getElementById("mylg-tabcontent").style.top = "0";
-  } else {
-    document.getElementById("mylg-tabcontent").style.top = "-50px";
-  }
-}
-
 
 
 
